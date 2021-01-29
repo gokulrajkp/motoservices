@@ -273,6 +273,7 @@
                         style="@style/TextAppearance.AppCompat.Caption"
                         android:text="Todd Stan"/>
                 </LinearLayout>
+                
             </LinearLayout>
 
             <LinearLayout
